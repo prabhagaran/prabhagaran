@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Current Working On PCB Design | Embedded Programming | 3D Printing | RC Trucks | BMS  | BESS<br><br>
+I am Currently Working On PCB Design | Embedded Programming | 3D Printing | RC Trucks | BMS  | BESS<br><br>
 
 
 ## 🌐 Socials:
