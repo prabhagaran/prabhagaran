@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Currently Working On PCB Design | Embedded Programming | 3D Printing | RC Trucks | BMS  | BESS<br><br>
+I work on PCB design, embedded firmware, BMS architecture, and custom hardware tools. I enjoy mixing electronics with creativity — whether it's designing 3-wheel EV power systems, building RC truck models, or creating custom boards<br><br>
 
 
 ## 🌐 Socials:
