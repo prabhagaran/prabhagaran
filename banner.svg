@@ -1,0 +1,156 @@
+<svg viewBox="0 0 900 240" xmlns="http://www.w3.org/2000/svg" width="900" height="240">
+  <defs>
+    <linearGradient id="skyGrad" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#050b14"/>
+      <stop offset="100%" stop-color="#091628"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="240" fill="url(#skyGrad)"/>
+  <g opacity="0.10" stroke="#00d4ff" stroke-width="0.5" fill="none">
+    <line x1="0" y1="40" x2="900" y2="40"/><line x1="0" y1="80" x2="900" y2="80"/>
+    <line x1="0" y1="120" x2="900" y2="120"/><line x1="0" y1="160" x2="900" y2="160"/>
+    <line x1="0" y1="200" x2="900" y2="200"/>
+    <line x1="60" y1="0" x2="60" y2="240"/><line x1="120" y1="0" x2="120" y2="240"/>
+    <line x1="180" y1="0" x2="180" y2="240"/><line x1="240" y1="0" x2="240" y2="240"/>
+    <line x1="300" y1="0" x2="300" y2="240"/><line x1="360" y1="0" x2="360" y2="240"/>
+    <line x1="420" y1="0" x2="420" y2="240"/><line x1="480" y1="0" x2="480" y2="240"/>
+    <line x1="540" y1="0" x2="540" y2="240"/><line x1="600" y1="0" x2="600" y2="240"/>
+    <line x1="660" y1="0" x2="660" y2="240"/><line x1="720" y1="0" x2="720" y2="240"/>
+    <line x1="780" y1="0" x2="780" y2="240"/><line x1="840" y1="0" x2="840" y2="240"/>
+  </g>
+  <g stroke="#00d4ff" stroke-width="1.5" fill="none" opacity="0.25">
+    <polyline points="0,105 55,105 55,65 120,65"/>
+    <circle cx="55" cy="105" r="3" fill="#00d4ff"/>
+    <polyline points="120,65 180,65 180,105 260,105"/>
+    <circle cx="180" cy="65" r="3" fill="#00d4ff"/>
+    <polyline points="900,85 848,85 848,125 775,125"/>
+    <polyline points="775,125 720,125 720,85 648,85"/>
+    <circle cx="775" cy="125" r="3" fill="#00d4ff"/>
+  </g>
+  <circle cx="45" cy="18" r="1" fill="white" opacity="0.5"/>
+  <circle cx="160" cy="12" r="1.5" fill="white" opacity="0.4"/>
+  <circle cx="290" cy="22" r="1" fill="white" opacity="0.6"/>
+  <circle cx="430" cy="10" r="1" fill="white" opacity="0.4"/>
+  <circle cx="590" cy="20" r="1.5" fill="white" opacity="0.5"/>
+  <circle cx="730" cy="8" r="1" fill="white" opacity="0.6"/>
+  <circle cx="860" cy="25" r="1" fill="white" opacity="0.4"/>
+  <g>
+    <rect x="22" y="82" width="56" height="118" rx="2" fill="#0b1929" stroke="#00d4ff" stroke-width="1.2"/>
+    <rect x="18" y="90" width="4" height="3" rx="0.5" fill="#ffd700"/>
+    <rect x="18" y="100" width="4" height="3" rx="0.5" fill="#ffd700"/>
+    <rect x="18" y="110" width="4" height="3" rx="0.5" fill="#ffd700"/>
+    <rect x="18" y="120" width="4" height="3" rx="0.5" fill="#ffd700"/>
+    <g fill="#00d4ff">
+      <rect x="29" y="89" width="9" height="6" rx="1" opacity="0.8"/><rect x="41" y="89" width="9" height="6" rx="1" opacity="0.3"/><rect x="53" y="89" width="9" height="6" rx="1" opacity="0.7"/>
+      <rect x="29" y="99" width="9" height="6" rx="1" opacity="0.3"/><rect x="41" y="99" width="9" height="6" rx="1" opacity="0.9"/><rect x="53" y="99" width="9" height="6" rx="1" opacity="0.5"/>
+      <rect x="29" y="109" width="9" height="6" rx="1" opacity="0.8"/><rect x="41" y="109" width="9" height="6" rx="1" opacity="0.6"/><rect x="53" y="109" width="9" height="6" rx="1" opacity="0.3"/>
+      <rect x="29" y="119" width="9" height="6" rx="1" opacity="0.4"/><rect x="41" y="119" width="9" height="6" rx="1" opacity="0.9"/><rect x="53" y="119" width="9" height="6" rx="1" opacity="0.7"/>
+      <rect x="29" y="129" width="9" height="6" rx="1" opacity="0.9"/><rect x="41" y="129" width="9" height="6" rx="1" opacity="0.3"/><rect x="53" y="129" width="9" height="6" rx="1" opacity="0.8"/>
+      <rect x="29" y="139" width="9" height="6" rx="1" opacity="0.5"/><rect x="41" y="139" width="9" height="6" rx="1" opacity="0.7"/><rect x="53" y="139" width="9" height="6" rx="1" opacity="0.9"/>
+      <rect x="29" y="149" width="9" height="6" rx="1" opacity="0.8"/><rect x="41" y="149" width="9" height="6" rx="1" opacity="0.4"/><rect x="53" y="149" width="9" height="6" rx="1" opacity="0.6"/>
+      <rect x="29" y="159" width="9" height="6" rx="1" opacity="0.3"/><rect x="41" y="159" width="9" height="6" rx="1" opacity="0.8"/><rect x="53" y="159" width="9" height="6" rx="1" opacity="0.9"/>
+    </g>
+    <line x1="50" y1="82" x2="50" y2="64" stroke="#2a4060" stroke-width="1.5"/>
+    <circle cx="50" cy="61" r="5" fill="#ff4444" opacity="0.9"/>
+    <text x="50" y="213" font-size="8" fill="#2a5070" text-anchor="middle" font-family="Courier New, monospace" font-weight="700">BMS</text>
+  </g>
+  <g>
+    <rect x="96" y="48" width="72" height="152" rx="2" fill="#0b1929" stroke="#ffd700" stroke-width="1.5"/>
+    <rect x="90" y="58" width="6" height="3" rx="0.5" fill="#ffd700"/><rect x="90" y="70" width="6" height="3" rx="0.5" fill="#ffd700"/><rect x="90" y="82" width="6" height="3" rx="0.5" fill="#ffd700"/><rect x="90" y="94" width="6" height="3" rx="0.5" fill="#ffd700"/>
+    <rect x="168" y="58" width="6" height="3" rx="0.5" fill="#ffd700"/><rect x="168" y="70" width="6" height="3" rx="0.5" fill="#ffd700"/><rect x="168" y="82" width="6" height="3" rx="0.5" fill="#ffd700"/><rect x="168" y="94" width="6" height="3" rx="0.5" fill="#ffd700"/>
+    <g fill="#ffd700">
+      <rect x="104" y="56" width="11" height="7" rx="1" opacity="0.8"/><rect x="119" y="56" width="11" height="7" rx="1" opacity="0.4"/><rect x="134" y="56" width="11" height="7" rx="1" opacity="0.9"/><rect x="149" y="56" width="11" height="7" rx="1" opacity="0.5"/>
+      <rect x="104" y="67" width="11" height="7" rx="1" opacity="0.4"/><rect x="119" y="67" width="11" height="7" rx="1" opacity="0.9"/><rect x="134" y="67" width="11" height="7" rx="1" opacity="0.6"/><rect x="149" y="67" width="11" height="7" rx="1" opacity="0.8"/>
+      <rect x="104" y="78" width="11" height="7" rx="1" opacity="0.9"/><rect x="119" y="78" width="11" height="7" rx="1" opacity="0.5"/><rect x="134" y="78" width="11" height="7" rx="1" opacity="0.3"/><rect x="149" y="78" width="11" height="7" rx="1" opacity="0.9"/>
+      <rect x="104" y="89" width="11" height="7" rx="1" opacity="0.6"/><rect x="119" y="89" width="11" height="7" rx="1" opacity="0.8"/><rect x="134" y="89" width="11" height="7" rx="1" opacity="0.9"/><rect x="149" y="89" width="11" height="7" rx="1" opacity="0.3"/>
+      <rect x="104" y="100" width="11" height="7" rx="1" opacity="0.8"/><rect x="119" y="100" width="11" height="7" rx="1" opacity="0.4"/><rect x="134" y="100" width="11" height="7" rx="1" opacity="0.7"/><rect x="149" y="100" width="11" height="7" rx="1" opacity="0.9"/>
+      <rect x="104" y="111" width="11" height="7" rx="1" opacity="0.3"/><rect x="119" y="111" width="11" height="7" rx="1" opacity="0.9"/><rect x="134" y="111" width="11" height="7" rx="1" opacity="0.5"/><rect x="149" y="111" width="11" height="7" rx="1" opacity="0.8"/>
+      <rect x="104" y="122" width="11" height="7" rx="1" opacity="0.9"/><rect x="119" y="122" width="11" height="7" rx="1" opacity="0.6"/><rect x="134" y="122" width="11" height="7" rx="1" opacity="0.8"/><rect x="149" y="122" width="11" height="7" rx="1" opacity="0.4"/>
+      <rect x="104" y="133" width="11" height="7" rx="1" opacity="0.5"/><rect x="119" y="133" width="11" height="7" rx="1" opacity="0.8"/><rect x="134" y="133" width="11" height="7" rx="1" opacity="0.9"/><rect x="149" y="133" width="11" height="7" rx="1" opacity="0.3"/>
+      <rect x="104" y="144" width="11" height="7" rx="1" opacity="0.8"/><rect x="119" y="144" width="11" height="7" rx="1" opacity="0.9"/><rect x="134" y="144" width="11" height="7" rx="1" opacity="0.4"/><rect x="149" y="144" width="11" height="7" rx="1" opacity="0.7"/>
+      <rect x="104" y="155" width="11" height="7" rx="1" opacity="0.6"/><rect x="119" y="155" width="11" height="7" rx="1" opacity="0.3"/><rect x="134" y="155" width="11" height="7" rx="1" opacity="0.9"/><rect x="149" y="155" width="11" height="7" rx="1" opacity="0.8"/>
+      <rect x="104" y="166" width="11" height="7" rx="1" opacity="0.9"/><rect x="119" y="166" width="11" height="7" rx="1" opacity="0.7"/><rect x="134" y="166" width="11" height="7" rx="1" opacity="0.5"/><rect x="149" y="166" width="11" height="7" rx="1" opacity="0.9"/>
+    </g>
+    <line x1="132" y1="48" x2="132" y2="28" stroke="#2a4060" stroke-width="1.5"/>
+    <line x1="124" y1="35" x2="140" y2="35" stroke="#2a4060" stroke-width="1"/>
+    <circle cx="132" cy="25" r="5.5" fill="#ffd700" opacity="0.95"/>
+    <text x="132" y="213" font-size="8" fill="#7a6000" text-anchor="middle" font-family="Courier New, monospace" font-weight="700">FALCON HV</text>
+  </g>
+  <g>
+    <rect x="186" y="68" width="58" height="132" rx="2" fill="#0b1929" stroke="#bc8cff" stroke-width="1.2"/>
+    <rect x="182" y="78" width="4" height="3" rx="0.5" fill="#ffd700"/><rect x="182" y="90" width="4" height="3" rx="0.5" fill="#ffd700"/><rect x="182" y="102" width="4" height="3" rx="0.5" fill="#ffd700"/>
+    <g fill="#bc8cff">
+      <rect x="193" y="76" width="10" height="6" rx="1" opacity="0.8"/><rect x="207" y="76" width="10" height="6" rx="1" opacity="0.3"/><rect x="221" y="76" width="10" height="6" rx="1" opacity="0.7"/>
+      <rect x="193" y="86" width="10" height="6" rx="1" opacity="0.4"/><rect x="207" y="86" width="10" height="6" rx="1" opacity="0.9"/><rect x="221" y="86" width="10" height="6" rx="1" opacity="0.5"/>
+      <rect x="193" y="96" width="10" height="6" rx="1" opacity="0.9"/><rect x="207" y="96" width="10" height="6" rx="1" opacity="0.6"/><rect x="221" y="96" width="10" height="6" rx="1" opacity="0.8"/>
+      <rect x="193" y="106" width="10" height="6" rx="1" opacity="0.3"/><rect x="207" y="106" width="10" height="6" rx="1" opacity="0.8"/><rect x="221" y="106" width="10" height="6" rx="1" opacity="0.9"/>
+      <rect x="193" y="116" width="10" height="6" rx="1" opacity="0.7"/><rect x="207" y="116" width="10" height="6" rx="1" opacity="0.4"/><rect x="221" y="116" width="10" height="6" rx="1" opacity="0.8"/>
+      <rect x="193" y="126" width="10" height="6" rx="1" opacity="0.9"/><rect x="207" y="126" width="10" height="6" rx="1" opacity="0.7"/><rect x="221" y="126" width="10" height="6" rx="1" opacity="0.3"/>
+      <rect x="193" y="136" width="10" height="6" rx="1" opacity="0.5"/><rect x="207" y="136" width="10" height="6" rx="1" opacity="0.9"/><rect x="221" y="136" width="10" height="6" rx="1" opacity="0.8"/>
+      <rect x="193" y="146" width="10" height="6" rx="1" opacity="0.8"/><rect x="207" y="146" width="10" height="6" rx="1" opacity="0.3"/><rect x="221" y="146" width="10" height="6" rx="1" opacity="0.7"/>
+      <rect x="193" y="156" width="10" height="6" rx="1" opacity="0.6"/><rect x="207" y="156" width="10" height="6" rx="1" opacity="0.8"/><rect x="221" y="156" width="10" height="6" rx="1" opacity="0.9"/>
+      <rect x="193" y="166" width="10" height="6" rx="1" opacity="0.3"/><rect x="207" y="166" width="10" height="6" rx="1" opacity="0.7"/><rect x="221" y="166" width="10" height="6" rx="1" opacity="0.5"/>
+    </g>
+    <line x1="215" y1="68" x2="215" y2="50" stroke="#2a4060" stroke-width="1.5"/>
+    <circle cx="215" cy="46" r="4.5" fill="#bc8cff" opacity="0.9"/>
+    <text x="215" y="213" font-size="8" fill="#5a3090" text-anchor="middle" font-family="Courier New, monospace" font-weight="700">BESS 10MWh</text>
+  </g>
+  <g>
+    <rect x="262" y="90" width="46" height="110" rx="2" fill="#0b1929" stroke="#3fb950" stroke-width="1.2"/>
+    <rect x="258" y="100" width="4" height="3" rx="0.5" fill="#ffd700"/><rect x="258" y="112" width="4" height="3" rx="0.5" fill="#ffd700"/>
+    <g fill="#3fb950">
+      <rect x="269" y="98" width="9" height="6" rx="1" opacity="0.8"/><rect x="282" y="98" width="9" height="6" rx="1" opacity="0.3"/><rect x="295" y="98" width="9" height="6" rx="1" opacity="0.7"/>
+      <rect x="269" y="108" width="9" height="6" rx="1" opacity="0.4"/><rect x="282" y="108" width="9" height="6" rx="1" opacity="0.9"/><rect x="295" y="108" width="9" height="6" rx="1" opacity="0.5"/>
+      <rect x="269" y="118" width="9" height="6" rx="1" opacity="0.9"/><rect x="282" y="118" width="9" height="6" rx="1" opacity="0.6"/><rect x="295" y="118" width="9" height="6" rx="1" opacity="0.8"/>
+      <rect x="269" y="128" width="9" height="6" rx="1" opacity="0.3"/><rect x="282" y="128" width="9" height="6" rx="1" opacity="0.8"/><rect x="295" y="128" width="9" height="6" rx="1" opacity="0.9"/>
+      <rect x="269" y="138" width="9" height="6" rx="1" opacity="0.7"/><rect x="282" y="138" width="9" height="6" rx="1" opacity="0.5"/><rect x="295" y="138" width="9" height="6" rx="1" opacity="0.8"/>
+      <rect x="269" y="148" width="9" height="6" rx="1" opacity="0.9"/><rect x="282" y="148" width="9" height="6" rx="1" opacity="0.7"/><rect x="295" y="148" width="9" height="6" rx="1" opacity="0.4"/>
+      <rect x="269" y="158" width="9" height="6" rx="1" opacity="0.6"/><rect x="282" y="158" width="9" height="6" rx="1" opacity="0.9"/><rect x="295" y="158" width="9" height="6" rx="1" opacity="0.8"/>
+      <rect x="269" y="168" width="9" height="6" rx="1" opacity="0.5"/><rect x="282" y="168" width="9" height="6" rx="1" opacity="0.3"/><rect x="295" y="168" width="9" height="6" rx="1" opacity="0.9"/>
+      <rect x="269" y="178" width="9" height="6" rx="1" opacity="0.8"/><rect x="282" y="178" width="9" height="6" rx="1" opacity="0.6"/><rect x="295" y="178" width="9" height="6" rx="1" opacity="0.7"/>
+    </g>
+    <text x="285" y="213" font-size="8" fill="#1a5030" text-anchor="middle" font-family="Courier New, monospace" font-weight="700">EMS</text>
+  </g>
+  <g>
+    <rect x="326" y="108" width="38" height="92" rx="2" fill="#0b1929" stroke="#ff7b59" stroke-width="1"/>
+    <g fill="#ff7b59">
+      <rect x="333" y="115" width="8" height="5" rx="1" opacity="0.8"/><rect x="346" y="115" width="8" height="5" rx="1" opacity="0.3"/>
+      <rect x="333" y="124" width="8" height="5" rx="1" opacity="0.4"/><rect x="346" y="124" width="8" height="5" rx="1" opacity="0.9"/>
+      <rect x="333" y="133" width="8" height="5" rx="1" opacity="0.9"/><rect x="346" y="133" width="8" height="5" rx="1" opacity="0.5"/>
+      <rect x="333" y="142" width="8" height="5" rx="1" opacity="0.6"/><rect x="346" y="142" width="8" height="5" rx="1" opacity="0.8"/>
+      <rect x="333" y="151" width="8" height="5" rx="1" opacity="0.3"/><rect x="346" y="151" width="8" height="5" rx="1" opacity="0.9"/>
+      <rect x="333" y="160" width="8" height="5" rx="1" opacity="0.8"/><rect x="346" y="160" width="8" height="5" rx="1" opacity="0.4"/>
+      <rect x="333" y="169" width="8" height="5" rx="1" opacity="0.7"/><rect x="346" y="169" width="8" height="5" rx="1" opacity="0.6"/>
+      <rect x="333" y="178" width="8" height="5" rx="1" opacity="0.5"/><rect x="346" y="178" width="8" height="5" rx="1" opacity="0.9"/>
+    </g>
+    <text x="345" y="213" font-size="8" fill="#602010" text-anchor="middle" font-family="Courier New, monospace" font-weight="700">PCB</text>
+  </g>
+  <text x="510" y="75" font-size="30" fill="#f0f6fc" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-weight="700" letter-spacing="-0.5">Prabhagaran</text>
+  <text x="510" y="98" font-size="11.5" fill="#00d4ff" font-family="Courier New, monospace" letter-spacing="2.5" font-weight="400">HARDWARE ENGINEER  ·  BMS  ·  BESS  ·  PCB</text>
+  <line x1="508" y1="106" x2="888" y2="106" stroke="#1e3a5f" stroke-width="0.5"/>
+  <text x="510" y="122" font-size="11" fill="#6e7f96" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-style="italic">Designing high-voltage power systems</text>
+  <text x="510" y="137" font-size="11" fill="#6e7f96" font-family="-apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-style="italic">that don't apologize for being precise.</text>
+  <rect x="508" y="150" width="96" height="22" rx="4" fill="#0e4429" stroke="#238636" stroke-width="0.8"/>
+  <text x="556" y="165" font-size="10" fill="#3fb950" text-anchor="middle" font-family="Courier New, monospace" font-weight="600">IEC 60664-1</text>
+  <rect x="612" y="150" width="82" height="22" rx="4" fill="#121d2f" stroke="#2a4060" stroke-width="0.8"/>
+  <text x="653" y="165" font-size="10" fill="#58a6ff" text-anchor="middle" font-family="Courier New, monospace" font-weight="600">XMC4800</text>
+  <rect x="702" y="150" width="80" height="22" rx="4" fill="#2d1a00" stroke="#d29922" stroke-width="0.8"/>
+  <text x="742" y="165" font-size="10" fill="#d29922" text-anchor="middle" font-family="Courier New, monospace" font-weight="600">CISPR 32</text>
+  <rect x="790" y="150" width="88" height="22" rx="4" fill="#1a1a3a" stroke="#5a5aaa" stroke-width="0.8"/>
+  <text x="834" y="165" font-size="10" fill="#8888dd" text-anchor="middle" font-family="Courier New, monospace" font-weight="600">IPC-2221B</text>
+  <rect x="508" y="178" width="74" height="22" rx="4" fill="#1a0030" stroke="#6e40c9" stroke-width="0.8"/>
+  <text x="545" y="193" font-size="10" fill="#bc8cff" text-anchor="middle" font-family="Courier New, monospace" font-weight="600">EtherCAT</text>
+  <rect x="590" y="178" width="62" height="22" rx="4" fill="#1a0030" stroke="#6e40c9" stroke-width="0.8"/>
+  <text x="621" y="193" font-size="10" fill="#bc8cff" text-anchor="middle" font-family="Courier New, monospace" font-weight="600">isoSPI</text>
+  <rect x="660" y="178" width="62" height="22" rx="4" fill="#0e4429" stroke="#238636" stroke-width="0.8"/>
+  <text x="691" y="193" font-size="10" fill="#3fb950" text-anchor="middle" font-family="Courier New, monospace" font-weight="600">CAN FD</text>
+  <rect x="730" y="178" width="70" height="22" rx="4" fill="#1c1000" stroke="#d29922" stroke-width="0.8"/>
+  <text x="765" y="193" font-size="10" fill="#d29922" text-anchor="middle" font-family="Courier New, monospace" font-weight="600">10 MWh</text>
+  <rect x="808" y="178" width="70" height="22" rx="4" fill="#1a0010" stroke="#aa3344" stroke-width="0.8"/>
+  <text x="843" y="193" font-size="10" fill="#ff6677" text-anchor="middle" font-family="Courier New, monospace" font-weight="600">IEC 62619</text>
+  <rect x="0" y="210" width="900" height="30" fill="#030810"/>
+  <g stroke="#1e3a5f" stroke-width="0.5" opacity="0.5">
+    <line x1="0" y1="214" x2="900" y2="214"/><line x1="0" y1="220" x2="900" y2="220"/><line x1="0" y1="226" x2="900" y2="226"/>
+  </g>
+  <text x="450" y="224" font-size="7" fill="#1e3050" text-anchor="middle" font-family="Courier New, monospace" letter-spacing="5">GND · GND · GND · GND · GND · GND · GND · GND</text>
+</svg>
